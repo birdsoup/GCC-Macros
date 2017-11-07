@@ -25,3 +25,10 @@ This is very much a work in progress, and the supplied code is nowhere near bein
 The current code simply reads inputs from the controller and outputs them to the console, with the exception of a few macro'd bindings. When holding the right trigger, pressing and holding B will run a macro to perform frame-perfect multishines on Fox in Super Smash Bros Melee.
 
 ![gif of the fox multishine macro](multishine.gif)
+
+-----------------------------------
+
+##More info, credits, etc
+
+The code makes large use of NicoHood's Nintendo library, which can be found [here](https://github.com/NicoHood/Nintendo). (Definitely check if out if you want more examples of how to read/write to/from a gamecube or gamecube controller.
+The wiring is also largely inspired by his work.
