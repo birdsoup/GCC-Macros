@@ -28,7 +28,7 @@ The current code simply reads inputs from the controller and outputs them to the
 
 -----------------------------------
 
-##More info, credits, etc
+## More info, credits, etc
 
 The code makes large use of NicoHood's Nintendo library, which can be found [here](https://github.com/NicoHood/Nintendo). (Definitely check if out if you want more examples of how to read/write to/from a gamecube or gamecube controller.
 The wiring is also largely inspired by his work.
