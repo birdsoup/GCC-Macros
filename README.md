@@ -8,6 +8,8 @@ This is very much a work in progress, and the supplied code is nowhere near bein
 -----------------------------------
 
 ## External Arduino Setup
+(Plug the controller into one end, and plug the other end into the console)
+
 ![external_wiring](external_diagram.png)
 ![external_wiring irl](external_wiring_real.jpg)
 [Link to the Fritzing wiring diagram](external_diagram.fzz)
@@ -15,6 +17,7 @@ This is very much a work in progress, and the supplied code is nowhere near bein
 -----------------------------------
 
 ## Internal Arduino Setup
+(Wire the arduino directly to the controller, and fit the arduino inside the controller)
 ![internal_wiring](internal_diagram.png)
 
 -----------------------------------
